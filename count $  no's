@@ -1,0 +1,2 @@
+str=" hi $ iam the $ then $ be come$ an the $"
+print(str.count("$"))
